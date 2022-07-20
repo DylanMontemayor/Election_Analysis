@@ -14,7 +14,7 @@ This analysis presents the results of an election audit. It starts with the tota
 - Data Source: election_results.csv
 
 ## Analysis
-- election_analysis.txt
+- Analysis Results: election_analysis.txt
 
 ## Election Audit Results
 
