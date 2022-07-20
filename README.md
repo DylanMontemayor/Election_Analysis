@@ -22,6 +22,8 @@ This analysis presents the results of an election audit. It starts with the tota
 
 Through the election, the code counted 369,711 votes, this is achieved with a loop that goes through all the file rows. 
 
+![County](https://github.com/DylanMontemayor/Election_Analysis/blob/main/Resources/Images/Total.png)
+
 ### - Number of Votes and percentage of total votes for each county in the precinct
 
 To understand how the votes were distributed, the code calculates each county's total amount of votes and its percentage. It would be important to understand the reason for having very different amounts of votes in each county. 
@@ -30,6 +32,8 @@ To understand how the votes were distributed, the code calculates each county's 
 
 It is seen from these results that Denver has the largest amount of votes. Compared to other counties and the percentage they got, we can say that everything was decided by the people in Denver. 
 
+![County](https://github.com/DylanMontemayor/Election_Analysis/blob/main/Resources/Images/County.png)
+
 ### - Number of votes and the percentage of the total votes each candidate received
 
 The main reason for this analysis was to understand who was the winner of the election. The code calculates each candidate's total votes and the proportion it represents of the total votes.
@@ -37,6 +41,8 @@ The main reason for this analysis was to understand who was the winner of the el
 ### - Winner candidate
 
 The image is taken directly from the text file that can be obtained by running this code. As it is shown, Diana DeGette won with 272,892 votes and 73.8 percent. She won with more than 50 percent compared to the other candidates. 
+
+![Winner](https://github.com/DylanMontemayor/Election_Analysis/blob/main/Resources/Images/Winner.png)
 
 ## Election Audit Summary
 
